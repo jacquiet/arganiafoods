@@ -1,0 +1,2707 @@
+[
+  {
+    "lat": "40.77543",
+    "lng": "-73.9099738",
+    "id": 1495198,
+    "name": "Natural Frontier (Ditmar)",
+    "address": "31-28 Ditmars Blvd. (31 St)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11105"
+  },
+  {
+    "lat": "40.7130531",
+    "lng": "-74.0358396",
+    "id": 1495199,
+    "name": "Downtown Pharmacy (Essex)",
+    "address": "52 Essex St",
+    "state": "Jersey City",
+    "city": "NJ",
+    "postal": "07302"
+  },
+  {
+    "lat": "40.763061",
+    "lng": "-73.912642",
+    "id": 1495200,
+    "name": "Key Food (42-15)",
+    "address": "42-15 30th Ave. (43rd St)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11103"
+  },
+  {
+    "lat": "40.7142995",
+    "lng": "-74.0444249",
+    "id": 1495201,
+    "name": "Downtown Pharmacy (Park)",
+    "address": "18 Parkview Ave",
+    "state": "Jersery City",
+    "city": "NJ",
+    "postal": "07302"
+  },
+  {
+    "lat": "40.6867669",
+    "lng": "-73.9752751",
+    "id": 1495202,
+    "name": "Fresh Garden (Fulton)",
+    "address": "729 Fulton St (Lafayette)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11217"
+  },
+  {
+    "lat": "40.6767339",
+    "lng": "-73.9716632",
+    "id": 1495203,
+    "name": "Jo, Brian & (Flatbush) 11238",
+    "address": "369 Flatbush, ",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11238"
+  },
+  {
+    "lat": "40.7501735",
+    "lng": "-73.8822451",
+    "id": 1495204,
+    "name": "Down Town Natural",
+    "address": "84-01 37th Ave",
+    "state": "Jackson Heights",
+    "city": "NY",
+    "postal": "11372"
+  },
+  {
+    "lat": "40.6673765",
+    "lng": "-73.9874335",
+    "id": 1495205,
+    "name": "Awesome Organic (5ave) 11215",
+    "address": "493 5th Ave",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11215"
+  },
+  {
+    "lat": "40.7333138",
+    "lng": "-73.7836677",
+    "id": 1495206,
+    "name": "Fresh Meadow Natural 11365",
+    "address": "6974 188th St",
+    "state": "Fresh Meadows",
+    "city": "NY",
+    "postal": "11365"
+  },
+  {
+    "lat": "40.7183959",
+    "lng": "-73.8409077",
+    "id": 1495207,
+    "name": "SS Natural (Flushing) 11375",
+    "address": "7256 Austin St, ",
+    "state": "Flushing",
+    "city": "NY",
+    "postal": "11375"
+  },
+  {
+    "lat": "40.6761589",
+    "lng": "-73.9809598",
+    "id": 1495208,
+    "name": "Associated Supermarkets (5ave) 11215",
+    "address": "216 5 Ave, Union St",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11215"
+  },
+  {
+    "lat": "40.756745",
+    "lng": "-73.913917",
+    "id": 1495209,
+    "name": "Vitality and Health",
+    "address": "4603 Broadway (46 St)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11103"
+  },
+  {
+    "lat": "40.761306",
+    "lng": "-73.9244325",
+    "id": 1495210,
+    "name": "Greenbay Marketplace",
+    "address": "3206 Broadway (32 St)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11106"
+  },
+  {
+    "lat": "40.766433",
+    "lng": "-73.921057",
+    "id": 1495211,
+    "name": "Greenbay (30th Ave)",
+    "address": "31-10 30th Ave (31st)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11102"
+  },
+  {
+    "lat": "40.7581771",
+    "lng": "-73.9198369",
+    "id": 1495212,
+    "name": "Steinway Gourmet 11103",
+    "address": "3234 Steinway St (Broadway)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11103"
+  },
+  {
+    "lat": "40.7172429",
+    "lng": "-73.956624",
+    "id": 1495213,
+    "name": "Joe's Busy Corner",
+    "address": "552 Driggs Ave(N 7th St)",
+    "state": "Brooklyn ",
+    "city": "NY",
+    "postal": "11211"
+  },
+  {
+    "lat": "40.7112441",
+    "lng": "-73.9680806",
+    "id": 1495214,
+    "name": "Urban Market",
+    "address": "11 Broadway (S 6st)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11211"
+  },
+  {
+    "lat": "40.7083595",
+    "lng": "-74.0060041",
+    "id": 1495215,
+    "name": "Jubilee Market Place (D2) 10038",
+    "address": "99 John St Gold St",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10038"
+  },
+  {
+    "lat": "40.74645",
+    "lng": "-73.9854363",
+    "id": 1495216,
+    "name": "Bread&Butter 31st M2 10016",
+    "address": "303 5Ave 31st",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10016"
+  },
+  {
+    "lat": "40.7467447",
+    "lng": "-73.9896615",
+    "id": 1495217,
+    "name": "Sun Sweet Market (M1)",
+    "address": "838 ave of America (6ave 29&30st)",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10001"
+  },
+  {
+    "lat": "40.7633251",
+    "lng": "-73.9894255",
+    "id": 1495218,
+    "name": "Amish market M1 10019",
+    "address": "731 9th ave (49&50)",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10019"
+  },
+  {
+    "lat": "40.2769032",
+    "lng": "-74.5370852",
+    "id": 1495219,
+    "name": "130 Farmer Mkt (NJ) 08520",
+    "address": "370 Route 130 South",
+    "state": "East Windsor",
+    "postal": "08520"
+  },
+  {
+    "lat": "40.745265",
+    "lng": "-73.9199218",
+    "id": 1495220,
+    "name": "Food Universe (Sunnyside)",
+    "address": "44-07 43rd Ave",
+    "state": "Sunnyside",
+    "city": "NY",
+    "postal": "11104"
+  },
+  {
+    "lat": "40.743695",
+    "lng": "-73.950859",
+    "id": 1495221,
+    "name": "Natural Frontier (Jackson)",
+    "address": "12-01 Jackson Ave",
+    "state": "LIC",
+    "city": "NY",
+    "postal": "11101"
+  },
+  {
+    "lat": "40.6900642",
+    "lng": "-73.9549479",
+    "id": 1495222,
+    "name": "Compare (Bedford)",
+    "address": "991 Bedford Ave",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11205"
+  },
+  {
+    "lat": "40.7561177",
+    "lng": "-73.9964201",
+    "id": 1495223,
+    "name": "Brooklyn Fare (M1) 10018",
+    "address": "431 W 37th St, bt 9 n 10 Ave",
+    "state": "NY",
+    "city": "NY"
+  },
+  {
+    "lat": "40.6893676",
+    "lng": "-73.9697565",
+    "id": 1495224,
+    "name": "Elly's Market",
+    "address": "230 Dekalb Ave",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11205"
+  },
+  {
+    "lat": "40.6781743",
+    "lng": "-73.9551275",
+    "id": 1495225,
+    "name": "Broccoli Farm (BedStuy) 11238",
+    "address": "591 Franklin Ave (pacific)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11238"
+  },
+  {
+    "lat": "40.6762547",
+    "lng": "-73.9585067",
+    "id": 1495226,
+    "name": "Compare St marks (Gala Fresh)",
+    "address": "492 St.Marks Ave (Classon)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11238"
+  },
+  {
+    "lat": "40.6802953",
+    "lng": "-73.951458",
+    "id": 1495227,
+    "name": "Chungs Market (Fulton)",
+    "address": "1228 Fulton St",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11216"
+  },
+  {
+    "lat": "40.6872281",
+    "lng": "-73.9761847",
+    "id": 1495228,
+    "name": "Mr Mango",
+    "address": "59 Lafayette Ave",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11217"
+  },
+  {
+    "lat": "40.7819943",
+    "lng": "-73.9489953",
+    "id": 1495229,
+    "name": "Key food 92st U2 10029",
+    "address": "1769 2ave(92st)",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10029"
+  },
+  {
+    "lat": "40.7785143",
+    "lng": "-73.9883163",
+    "id": 1495230,
+    "name": "Jublie market (U1)10023",
+    "address": "180 riverside Blvd (West 69St)",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10023"
+  },
+  {
+    "lat": "40.7749033",
+    "lng": "-73.9882882",
+    "id": 1495231,
+    "name": "Gracefully 65st M1 10023",
+    "address": "101 West end ave",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10023"
+  },
+  {
+    "lat": "40.651706",
+    "lng": "-73.9755633",
+    "id": 1495232,
+    "name": "New Blondie (Park Slope)",
+    "address": "607 Greenwood Ave",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11218"
+  },
+  {
+    "lat": "40.6608536",
+    "lng": "-73.9617081",
+    "id": 1495233,
+    "name": "Lincoln Mkt (Nostrand) 11225",
+    "address": "33 Lincon Rd",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11225"
+  },
+  {
+    "lat": "40.639522",
+    "lng": "-73.9676502",
+    "id": 1495234,
+    "name": "Natural Frontier (Cortelyou Rd)",
+    "address": "1102 Cortelyou Rd",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11218"
+  },
+  {
+    "lat": "40.690483",
+    "lng": "-73.95943",
+    "id": 1495235,
+    "name": "Ctown (Dekalb)",
+    "address": "455 Taafe Place (Dekalb)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11205"
+  },
+  {
+    "lat": "40.7212908",
+    "lng": "-74.0448733",
+    "id": 1495236,
+    "name": "P&K Food Market",
+    "address": "170 Newark Ave",
+    "state": "Jersey city",
+    "city": "NJ",
+    "postal": "07302"
+  },
+  {
+    "lat": "40.7065047",
+    "lng": "-74.0077715",
+    "id": 1495237,
+    "name": "City Acres Market (LM)",
+    "address": "70 Pine St",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10005"
+  },
+  {
+    "lat": "40.6767852",
+    "lng": "-73.9838753",
+    "id": 1495238,
+    "name": "Green Ivy",
+    "address": "244 4th Ave (president)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11215"
+  },
+  {
+    "lat": "40.8672299",
+    "lng": "-73.3498044",
+    "id": 1495239,
+    "name": "Greenlawn Farm (LI) 11740",
+    "address": "777 Pulaski Rd",
+    "state": "Greenlawn",
+    "city": "NY",
+    "postal": "11740"
+  },
+  {
+    "lat": "40.709115",
+    "lng": "-73.8185864",
+    "id": 1495240,
+    "name": "Hi mango (queens)",
+    "address": "137-75 queens blvd",
+    "state": "Briarwood",
+    "postal": "11435"
+  },
+  {
+    "lat": "40.6903514",
+    "lng": "-73.9939759",
+    "id": 1495241,
+    "name": "Keyfood (Atlantic Ave) 11201",
+    "address": "169 Atlantic Ave (Clinton)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11201"
+  },
+  {
+    "lat": "40.7146685",
+    "lng": "-73.9917951",
+    "id": 1495242,
+    "name": "Canal Newsstand (D1) 10002",
+    "address": "52 Canal St, Orchard St",
+    "state": "NY",
+    "city": "NY",
+    "postal": "10002"
+  },
+  {
+    "lat": "40.6885219",
+    "lng": "-73.9854363",
+    "id": 1495243,
+    "name": "Brooklyn Fare (Atlantic)",
+    "address": "200 Schermerhorn St (Hyot)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11201"
+  },
+  {
+    "lat": "40.6317466",
+    "lng": "-74.027899",
+    "id": 1495244,
+    "name": "Key Food (3rd ave) 006BDT",
+    "address": "7414 3rd Ave (74 St)"
+  },
+  {
+    "lat": "40.7067364",
+    "lng": "-73.6572081",
+    "id": 1495245,
+    "name": "Cherry Valley (Hempstead)",
+    "address": "496 Hempstead tpke",
+    "state": "West Hempstead",
+    "city": "NY",
+    "postal": "11552"
+  },
+  {
+    "lat": "40.740932",
+    "lng": "-73.9037551",
+    "id": 1495246,
+    "name": "Key Food (Queens Blvd) 2G",
+    "address": "61-10 Queens Blvd",
+    "state": "Woodside",
+    "city": "NY",
+    "postal": "11377"
+  },
+  {
+    "lat": "40.7250188",
+    "lng": "-73.9512973",
+    "id": 1495247,
+    "name": "Jss Manhattan (Williams) 11222",
+    "address": "678 Manhattan Ave, ",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11222"
+  },
+  {
+    "lat": "40.7307247",
+    "lng": "-73.9545059",
+    "id": 1495248,
+    "name": "The Garden (Greenpoint)",
+    "address": "921 Manhattan Ave (Kent)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11222"
+  },
+  {
+    "lat": "40.7180718",
+    "lng": "-73.9548138",
+    "id": 1495249,
+    "name": "Organic Planet (Bedford) 11211",
+    "address": "205 N 9th St",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11211"
+  },
+  {
+    "lat": "41.0095611",
+    "lng": "-74.1215185",
+    "id": 1495250,
+    "name": "Giant farm ( Waldwick )",
+    "address": "19  Wyckoff ave",
+    "state": "Waldwick",
+    "city": "NJ",
+    "postal": "07463"
+  },
+  {
+    "lat": "40.708707",
+    "lng": "-73.8303045",
+    "id": 1495251,
+    "name": "C Town (Lefferts) 11415 2G",
+    "address": "81-29 Lefferts Blvd",
+    "state": "Kew Garden",
+    "city": "NY",
+    "postal": "11415"
+  },
+  {
+    "lat": "40.8214903",
+    "lng": "-73.9115947",
+    "id": 1495252,
+    "name": "Food Town (3rd ave)",
+    "address": "3100 3rd ave",
+    "state": "Bronx",
+    "city": "NY",
+    "postal": "10451"
+  },
+  {
+    "lat": "41.1657268",
+    "lng": "-73.8570451",
+    "id": 1495253,
+    "name": "Ctown Fourseason's (Ossining)",
+    "address": "88 Croton ave",
+    "state": "Ossining",
+    "city": "NY",
+    "postal": "10562"
+  },
+  {
+    "lat": "40.7650119",
+    "lng": "-73.9132942",
+    "id": 1495254,
+    "name": "C Town (28 ave) 11103 2G",
+    "address": "4012 28th ave",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11103"
+  },
+  {
+    "lat": "40.7062267",
+    "lng": "-73.8971147",
+    "id": 1495255,
+    "name": "Checos Food Universe 006BUT",
+    "address": "6682 Fresh Pond Rd",
+    "state": "Ridgwood",
+    "city": "NY",
+    "postal": "11385"
+  },
+  {
+    "lat": "40.756827",
+    "lng": "-73.9299385",
+    "id": 1495256,
+    "name": "Key Food (36th Avenue)",
+    "address": "30-13 36th Ave",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11106"
+  },
+  {
+    "lat": "40.7699776",
+    "lng": "-73.9046576",
+    "id": 1495257,
+    "name": "Berry Fresh Farm",
+    "address": "43-26 Ditmars Blvd (45th St)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11105"
+  },
+  {
+    "lat": "40.7776816",
+    "lng": "-73.9083735",
+    "id": 1495258,
+    "name": "Verdi Fresh",
+    "address": "2101 31st St (21 Ave)",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11105"
+  },
+  {
+    "lat": "40.6005018",
+    "lng": "-73.9920247",
+    "id": 1495259,
+    "name": "Cherry hill market (Brooklyn) 2G",
+    "address": "2284 86st",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11214"
+  },
+  {
+    "lat": "40.850114",
+    "lng": "-73.6350337",
+    "id": 1495260,
+    "name": "North Shore Farm (LI) 11542",
+    "address": "190 Glen Cove Ave",
+    "state": "Glen Cov",
+    "city": "NY",
+    "postal": "11542"
+  },
+  {
+    "lat": "40.6605217",
+    "lng": "-73.9983832",
+    "id": 1495261,
+    "name": "Ctown (park slope)",
+    "address": "760 4th Ave (25th st)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11232"
+  },
+  {
+    "lat": "40.2769032",
+    "lng": "-74.5370852",
+    "id": 1495262,
+    "name": "Farm Mkt (NJ)",
+    "address": "370 Route 130 South",
+    "state": "East Windsor",
+    "city": "NJ",
+    "postal": "08520"
+  },
+  {
+    "lat": "40.6647995",
+    "lng": "-74.2314137",
+    "id": 1495263,
+    "name": "Food bazaar(Elizabeth)",
+    "address": "211 Elmora Ave",
+    "state": "Elizabeth",
+    "city": "NJ",
+    "postal": "07202"
+  },
+  {
+    "lat": "40.966258",
+    "lng": "-74.2448311",
+    "id": 1495264,
+    "name": "Corrad's (Wayne)",
+    "address": "201 Berdan ave"
+  },
+  {
+    "lat": "40.7712853",
+    "lng": "-73.9250977",
+    "id": 1495265,
+    "name": "Ctown Farmers Market",
+    "address": "21-30 Newtown Ave (23rd St) no Tuesday",
+    "state": "Astoria",
+    "city": "NY",
+    "postal": "11102"
+  },
+  {
+    "lat": "40.7522769",
+    "lng": "-73.9212728",
+    "id": 1495266,
+    "name": "Food Bazaar (LIC)",
+    "address": "42-02 Northern Blvd",
+    "state": "LIC",
+    "city": "NY",
+    "postal": "11101"
+  },
+  {
+    "lat": "40.6859115",
+    "lng": "-74.3342923",
+    "id": 1495267,
+    "name": "Springfield Fine FM (NJ) ",
+    "address": "901 Mountain Ave",
+    "state": "Springfield",
+    "city": "NJ",
+    "postal": "07081"
+  },
+  {
+    "lat": "40.6782056",
+    "lng": "-73.9977628",
+    "id": 1495268,
+    "name": "Gourmetfresh (Court)",
+    "address": "439 Court St (3 pl)",
+    "state": "Brooklyn",
+    "city": "NY",
+    "postal": "11231"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495280,
+    "name": "AUSTIN NORTH LAMAR",
+    "address": "4001 N. Lamar Blvd. Austin TX 78756"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495281,
+    "name": "AUSTIN WESTGATE",
+    "address": "4477 S. Lamar Blvd. Austin TX 78745"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495282,
+    "name": "DALLAS LOVERS LANE",
+    "address": "5750 E. Lovers Ln. Dallas TX 75206"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495283,
+    "name": "DALLAS PRESTON ROYAL",
+    "address": "10720 Preston Rd. Dallas TX 75230"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495284,
+    "name": "DALLAS MIDWAY",
+    "address": "4349 W Northwest Hwy Dallas TX 75220"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495285,
+    "name": "FORT WORTH",
+    "address": "4651 West Fwy Fort Worth TX 76107"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495286,
+    "name": "HOUSTON",
+    "address": "3815 Westheimer Rd Houston TX 77027"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495287,
+    "name": "PLANO",
+    "address": "320 Coit Rd. Plano TX 75075"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495288,
+    "name": "SAN ANTONIO",
+    "address": "4821 Broadway St. San Antonio TX 78209"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495289,
+    "name": "SOUTHLAKE",
+    "address": "1425 E. Southlake Blvd. Southlake TX 76092"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495290,
+    "name": "Lassens ECHO PARK LOS ANGELES",
+    "address": "1631 W Sunset Blvd Los Angeles CA, 90026"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495291,
+    "name": "Lassens FRESNO",
+    "address": "9439 North Fort Washington Road Fresno CA, 93730"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495292,
+    "name": "Lassens LA BREA LOS ANGELES",
+    "address": "710 South La Brea Ave Los Angeles CA, 90036"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495293,
+    "name": "Lassens LOS FELIZ LOS ANGELES",
+    "address": "2080 Hillhurst Ave Los Angeles CA, 90027"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495294,
+    "name": "OXNARD",
+    "address": "3471 Saviers Rd Oxnard CA, 93033"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495295,
+    "name": "Lassens SAN LUIS OBISPO",
+    "address": "896 East Foothill Blvd San Luis Obispo CA 93405"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495296,
+    "name": "Lassens SANTA BARBARA",
+    "address": "5154 Hollister Goleta CA, 93111"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495297,
+    "name": "Lassens SANTA MARIA",
+    "address": "1790 S Broadway Santa Maria CA, 93454"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495298,
+    "name": "Lassens SIMI VALLEY",
+    "address": "2955 Cochran St Simi Valley CA, 93065"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495299,
+    "name": "Lassens THOUSAND OAKS",
+    "address": "2150 E Thousand Oaks Blvd Thousand Oaks CA, 91362"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495300,
+    "name": "Lassens VENTURA",
+    "address": "4071 East Main Street Ventura CA 93003"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495301,
+    "name": "Market Street",
+    "address": "5605 Colleyville Blvd. Colleyville, TX 76034 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495302,
+    "name": "Market Street",
+    "address": "6100 West Eldorado Parkway McKinney, TX 75072 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495303,
+    "name": "Market Street",
+    "address": "11999 Dallas Pkwy Frisco, TX 75033 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495304,
+    "name": "Market Street",
+    "address": "985 W. Bethany Dr. Allen, TX 75013 "
+  },
+  {
+    "lat": "32.9883034",
+    "lng": "-96.99213859999998",
+    "id": 1495306,
+    "name": "Market Street",
+    "address": "700 N. Denton Tap Rd. Coppell, TX 75019 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495307,
+    "name": "Market Street",
+    "address": "1929 Preston Road Plano, TX 75093 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495308,
+    "name": "Market Street",
+    "address": "4205 98th Street Lubbock, TX 79423 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495309,
+    "name": "Market Street",
+    "address": "2530 S. Georgia Amarillo, TX 79109 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495310,
+    "name": "Market Street",
+    "address": "4590 Kell Blvd Wichita Falls, TX 76309 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495311,
+    "name": "Market Street",
+    "address": "3405 50th Street Lubbock, TX 79413 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495312,
+    "name": "Market Street",
+    "address": "4425 19th Street Lubbock, TX 79407 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495313,
+    "name": "Market Street",
+    "address": "3800 Long Prairie Road Flower Mound, TX 75028 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495314,
+    "name": "Market Street",
+    "address": "4450 Buffalo Gap Road Abilene, TX 79606 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495315,
+    "name": "Market Street",
+    "address": "3121 Sunset Drive San Angelo, TX 76904 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495316,
+    "name": "Market Street",
+    "address": "4950 E. 42ND Street Odessa, TX 79762 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495317,
+    "name": "Market Street",
+    "address": "4706 North Midkiff Road Midland, TX 79705 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495318,
+    "name": "Market Street",
+    "address": "4268 Legacy Drive Frisco, TX 75034 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1495319,
+    "name": "Market Street",
+    "address": "3145 E. Broad Street Mansfield, TX 76063 "
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534008,
+    "name": "Battery Place Market ",
+    "address": "77 Battery Place, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534009,
+    "name": "Bay Ridge Health Food ",
+    "address": " 9220 3rd Avenue, Bay Ridge, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534010,
+    "name": "Downtown Natural Market ",
+    "address": "1701 Church Ave, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534011,
+    "name": "Food Story ",
+    "address": "40 Bogart Street, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534012,
+    "name": "Fresh Health Food Emporium ",
+    "address": "1276 Fulton St, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534013,
+    "name": "Healthy Market Place ",
+    "address": "217 1st Avenue, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534015,
+    "name": "Hi Mango Natural Market ",
+    "address": "1055 Flushing Avenue, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534016,
+    "name": "Namaskar Health ",
+    "address": "62 Water Street, Brooklyn, New York, NY 11201"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534017,
+    "name": "Natural Frontier Market Cortelyou Rd ",
+    "address": "1102 Cortelyou Road, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534018,
+    "name": "Natures House ",
+    "address": "159 Newark Avenue, Jersey City"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534019,
+    "name": "Nostrand Health Foods ",
+    "address": "1432 Nostrand Avenue, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534020,
+    "name": "Park Natural and Organic Foods ",
+    "address": "350 Court St, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534021,
+    "name": "Rachels Corner ",
+    "address": "116 Nassau Avenue, Greenpoint, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534022,
+    "name": "Stop 1 Food Mart ",
+    "address": "271 Flatbush Avenue, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534023,
+    "name": "Treehaus MiMA ",
+    "address": "657 Vanderbilt Avenue, Brooklyn, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534024,
+    "name": "Westside Market 14th st ",
+    "address": "77 7th Avenue, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534025,
+    "name": "Westside Market 2589 Broadway ",
+    "address": "2589 Broadway, Upper West Side, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534026,
+    "name": "Westside Market 2840 Broadway ",
+    "address": "2840 Broadway, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534027,
+    "name": "Westside Market 3rd av ",
+    "address": "84 3rd Avenue, Manhattan, New York"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534028,
+    "name": "Wholesome Farms",
+    "address": " 1306 Atlantic"
+  },
+  {
+    "lat": "33.7568011",
+    "lng": "-118.4112363",
+    "id": 1534029,
+    "name": "Market ",
+    "address": "Avenue, Brooklyn, New York"
+  },
+  {
+    "lat": "39.1084387",
+    "lng": "-77.1903021",
+    "id": 2294592,
+    "name": "Balducci's Food Lover's Market",
+    "address": "9201 Corporate Blvd Ste 340, Rockville, MD 20850"
+  },
+  {
+    "lat": "39.0251104",
+    "lng": "-77.12448269999999",
+    "id": 2294593,
+    "name": "Balducci's Food Lover's Market",
+    "address": "10323 Old Georgetown Rd, Bethesda, MD 20814, USA"
+  },
+  {
+    "lat": "38.7978102",
+    "lng": "-77.04790109999999",
+    "id": 2294595,
+    "name": "Balducci's Food Lover's Market",
+    "address": "600 Franklin St, Alexandria, VA 22314, USA"
+  },
+  {
+    "lat": "38.9308807",
+    "lng": "-77.17484760000002",
+    "id": 2294596,
+    "name": "Balducci's Food Lover's Market",
+    "address": "6655 Old Dominion Dr, McLean, VA 22101, USA"
+  },
+  {
+    "lat": "38.9597085",
+    "lng": "-77.3565873",
+    "id": 2294597,
+    "name": "Balducci's Food Lover's Market",
+    "address": "1871 Fountain Dr, Reston, VA 20190, USA"
+  },
+  {
+    "lat": "41.1389912",
+    "lng": "-73.31629199999998",
+    "id": 2294598,
+    "name": "Balducci's Food Lover's Market",
+    "address": "1385 Post Rd E, Westport, CT 06880, USA"
+  },
+  {
+    "lat": "41.0415254",
+    "lng": "-73.58678729999997",
+    "id": 2294600,
+    "name": "Balducci's Food Lover's Market",
+    "address": "1050 E Putnam Ave, Riverside, CT 06878, USA"
+  },
+  {
+    "lat": "40.9851895",
+    "lng": "-73.77490119999999",
+    "id": 2294601,
+    "name": "Balducci's Food Lover's Market",
+    "address": "15 Palmer Ave, Scarsdale, NY 10583, USA"
+  },
+  {
+    "lat": "41.0027189",
+    "lng": "-73.6822244",
+    "id": 2294602,
+    "name": "Balducci's Food Lover's Market",
+    "address": "144 S Ridge St, Rye Brook, NY 10573, USA"
+  },
+  {
+    "lat": "40.7662843",
+    "lng": "-73.9835703",
+    "id": 2294605,
+    "name": "Balducci's Food Lover's Market",
+    "address": "301 W 56th St, New York, NY 10019, USA"
+  },
+  {
+    "lat": "39.2961773",
+    "lng": "-76.59175599999998",
+    "id": 2294606,
+    "name": "Balducci's Food Lover's Market",
+    "address": "1800 Orleans St, Baltimore, MD 21287, USA"
+  },
+  {
+    "lat": "40.7312956",
+    "lng": "-74.2707509",
+    "id": 2294616,
+    "name": "Kings Food Markets",
+    "address": "159 Maplewood Ave",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Maplewood",
+    "postal": "07040"
+  },
+  {
+    "lat": "40.8435533",
+    "lng": "-74.20816680000001",
+    "id": 2294617,
+    "name": "Kings Food Markets",
+    "address": "650 Valley Road Upper ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Montclair",
+    "postal": "07043"
+  },
+  {
+    "lat": "40.7125977",
+    "lng": "-74.38451470000001",
+    "id": 2294618,
+    "name": "Kings Food Markets",
+    "address": "784 Springfield Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Summit",
+    "postal": "07901"
+  },
+  {
+    "lat": "40.9408579",
+    "lng": "-73.9603143",
+    "id": 2294619,
+    "name": "Kings Food Markets",
+    "address": "70 Union Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Cresskill",
+    "postal": "07626"
+  },
+  {
+    "lat": "40.7865805",
+    "lng": "-74.31255579999998",
+    "id": 2294621,
+    "name": "Kings Food Markets",
+    "address": "255 S. Livingston Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Livingston",
+    "postal": "07039"
+  },
+  {
+    "lat": "40.7909803",
+    "lng": "-74.47503289999997",
+    "id": 2294622,
+    "name": "Kings Food Markets",
+    "address": "191 South Street ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Morristown",
+    "postal": "07960"
+  },
+  {
+    "lat": "40.7422976",
+    "lng": "-74.3885583",
+    "id": 2294623,
+    "name": "Kings Food Markets",
+    "address": "393 Main Street ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Chatham",
+    "postal": "07928"
+  },
+  {
+    "lat": "40.9811834",
+    "lng": "-74.11335780000002",
+    "id": 2294624,
+    "name": "Kings Food Markets",
+    "address": "112 N. Maple Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Ridgewood",
+    "postal": "07450"
+  },
+  {
+    "lat": "40.9811834",
+    "lng": "-74.11335780000002",
+    "id": 2294625,
+    "name": "Kings Food Markets",
+    "address": "112 N. Maple Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Ridgewood",
+    "postal": "07450"
+  },
+  {
+    "lat": "40.720284",
+    "lng": "-74.56379700000002",
+    "id": 2294627,
+    "name": "Kings Food Markets",
+    "address": "100 Morristown Road ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Bernardsville",
+    "postal": " 07924"
+  },
+  {
+    "lat": "40.72229189999999",
+    "lng": "-74.33446090000001",
+    "id": 2294628,
+    "name": "Kings Food Markets",
+    "address": "778 Morris Turnpike ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Short Hills",
+    "postal": "07078 "
+  },
+  {
+    "lat": "40.6522196",
+    "lng": "-74.3241256",
+    "id": 2294629,
+    "name": "Kings Food Markets",
+    "address": "300 South Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Garwood",
+    "postal": "07027"
+  },
+  {
+    "lat": "41.0007642",
+    "lng": "-74.0409788",
+    "id": 2294630,
+    "name": "Kings Food Markets",
+    "address": "381 Washington Avenue ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Hillsdale",
+    "postal": "07642"
+  },
+  {
+    "lat": "40.6508629",
+    "lng": "-74.63457149999999",
+    "id": 2294631,
+    "name": "Kings Food Markets",
+    "address": "450 Route 206N & Hills Drive ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Bedminster",
+    "postal": " 07921"
+  },
+  {
+    "lat": "40.7831334",
+    "lng": "-74.58919700000001",
+    "id": 2294633,
+    "name": "Kings Food Markets",
+    "address": "86 East Main Street",
+    "country": "USA",
+    "state": "NJ",
+    "city": " Mendham",
+    "postal": "07945"
+  },
+  {
+    "lat": "40.6172697",
+    "lng": "-74.49440450000003",
+    "id": 2294634,
+    "name": "Kings Food Markets",
+    "address": "64 Mountain Blvd. ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Warren",
+    "postal": "07059"
+  },
+  {
+    "lat": "40.6201095",
+    "lng": "-74.76401750000002",
+    "id": 2294635,
+    "name": "Kings Food Markets",
+    "address": "531 U.S. Hwy. 22 East  P. O. Box 7 ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Whitehouse Station",
+    "postal": "08889"
+  },
+  {
+    "lat": "40.790501",
+    "lng": "-74.3929513",
+    "id": 2294636,
+    "name": "Kings Food Markets",
+    "address": "184 Columbia Tpk.",
+    "country": "USA",
+    "state": "NJ",
+    "city": " Florham Park",
+    "postal": "07932"
+  },
+  {
+    "lat": "40.7518512",
+    "lng": "-74.02522269999997",
+    "id": 2294637,
+    "name": "Kings Food Markets",
+    "address": "1212 Shipyard Lane ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Hoboken",
+    "postal": "07030"
+  },
+  {
+    "lat": "40.9077478",
+    "lng": "-74.42499120000002",
+    "id": 2294639,
+    "name": "Kings Food Markets",
+    "address": "115 Hawkins Place ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Boonton",
+    "postal": "07005"
+  },
+  {
+    "lat": "40.9844468",
+    "lng": "-74.1392715",
+    "id": 2294640,
+    "name": "Kings Food Markets",
+    "address": "85 Godwin Avenue",
+    "country": "USA",
+    "state": "NJ",
+    "city": " Midland Park",
+    "postal": "07432"
+  },
+  {
+    "lat": "40.7277865",
+    "lng": "-73.63531599999999",
+    "id": 2294641,
+    "name": "Kings Food Markets",
+    "address": "870 Franklin Avenue ",
+    "country": "USA",
+    "state": "NY",
+    "city": "Garden City",
+    "postal": "11530"
+  },
+  {
+    "lat": "40.740052",
+    "lng": "-74.0278032",
+    "id": 2294642,
+    "name": "Kings Food Markets",
+    "address": "325 River Street ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Hoboken",
+    "postal": "07030"
+  },
+  {
+    "lat": "40.6683478",
+    "lng": "-74.47958319999998",
+    "id": 2294643,
+    "name": "Kings Food Markets",
+    "address": "977 Valley Road ",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Gillette",
+    "postal": "07933"
+  },
+  {
+    "lat": "41.0323552",
+    "lng": "-73.56706109999999",
+    "id": 2294644,
+    "name": "Kings Food Markets",
+    "address": "26 Arcadia Road Old ",
+    "country": "USA",
+    "state": "CT",
+    "city": "Greenwich",
+    "postal": "06870"
+  },
+  {
+    "lat": "30.3589873",
+    "lng": "-103.657889",
+    "id": 2365277,
+    "name": "PORTERS THRIFTWAY",
+    "address": "104 N 2nd St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Alpine",
+    "postal": "79830"
+  },
+  {
+    "lat": "30.3589873",
+    "lng": "-103.657889",
+    "id": 2365446,
+    "name": "PORTERS THRIFTWAY",
+    "address": "104 N 2nd St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Alpibe",
+    "postal": "79830"
+  },
+  {
+    "lat": "30.430763",
+    "lng": "-91.1825182",
+    "id": 2365447,
+    "name": "ALEXANDERS HIGHLAND MARKET",
+    "address": "1811 Highlans rd",
+    "country": "USA",
+    "state": "LA",
+    "city": "Baton Rouge",
+    "postal": "70890"
+  },
+  {
+    "lat": "29.8484932",
+    "lng": "-91.5548129",
+    "id": 2365448,
+    "name": "RAINTREE MARKET #368",
+    "address": "17750 LA-182",
+    "country": "USA",
+    "state": "LA",
+    "city": "Baldwin",
+    "postal": "70514"
+  },
+  {
+    "lat": "41.5044587",
+    "lng": "-73.9682751",
+    "id": 2365449,
+    "name": "BEACON NATURAL MARKET ",
+    "address": "348 Main st, ",
+    "country": "USA",
+    "state": "NY",
+    "city": "Beacon",
+    "postal": "12508"
+  },
+  {
+    "lat": "35.2343767",
+    "lng": "-97.4938323",
+    "id": 2365450,
+    "name": "DODSON NUTRITION FOOD CENTER ",
+    "address": "1305 36th Ave NW",
+    "country": "USA",
+    "state": "OK",
+    "city": "Norman",
+    "postal": "73072"
+  },
+  {
+    "lat": "37.0559161",
+    "lng": "-94.4866556",
+    "id": 2365451,
+    "name": "FOX FARM WHOLE FOODS",
+    "address": "2639 E 32nd St # E",
+    "country": "USA",
+    "state": "MO",
+    "city": "Joplin ",
+    "postal": "62804"
+  },
+  {
+    "lat": "29.2518166",
+    "lng": "-81.1099967",
+    "id": 2365452,
+    "name": "LOVE WHOLE FOOD MARKET ",
+    "address": "275 Williamson Blvd",
+    "country": "USA",
+    "state": "FL",
+    "city": "Ormondo Beach ",
+    "postal": "32174"
+  },
+  {
+    "lat": "29.1034969",
+    "lng": "-81.0325501",
+    "id": 2365453,
+    "name": "LOVE WHOLE FOODS MARKET ",
+    "address": "1633 Taylor Rd",
+    "country": "USA",
+    "state": "FL",
+    "city": "Port Orange ",
+    "postal": "32128"
+  },
+  {
+    "lat": "42.3684808",
+    "lng": "-83.3810227",
+    "id": 2365454,
+    "name": "ZERBO'S HEALTH FOODS INC",
+    "address": "34164 Plymouth Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "Livonia ",
+    "postal": "48150"
+  },
+  {
+    "lat": "32.4543291",
+    "lng": "-93.7078854",
+    "id": 2365455,
+    "name": "VITAMINS PLUS ",
+    "address": "5819 E Kings Hwy,",
+    "country": "USA",
+    "state": "LA",
+    "city": "Shreveport",
+    "postal": "71105"
+  },
+  {
+    "lat": "30.2106771",
+    "lng": "-92.0461494",
+    "id": 2365456,
+    "name": "VITAMINS PLUS ",
+    "address": "505 Bertrand Dr,",
+    "country": "USA",
+    "state": "LA",
+    "city": "Lafayette",
+    "postal": "70506"
+  },
+  {
+    "lat": "32.4191186",
+    "lng": "-99.7610724",
+    "id": 2365457,
+    "name": "VITAMIN PLUS ",
+    "address": "2550 Barrow Street",
+    "country": "USA",
+    "state": "TX",
+    "city": "Abilene",
+    "postal": "79605"
+  },
+  {
+    "lat": "32.2868137",
+    "lng": "-95.301428",
+    "id": 2365458,
+    "name": "VITAMIN PLUS ",
+    "address": "5614 S Broadway Ave,",
+    "country": "USA",
+    "state": "TX",
+    "city": "Tyler",
+    "postal": "75703"
+  },
+  {
+    "lat": "29.7504798",
+    "lng": "-95.797907",
+    "id": 2365459,
+    "name": "HARVEST NATURAL MARKET",
+    "address": "25600 Westheimer Pkwy",
+    "country": "USA",
+    "state": "TX",
+    "city": "Katy",
+    "postal": "77494"
+  },
+  {
+    "lat": "30.451674",
+    "lng": "-91.185271",
+    "id": 2365460,
+    "name": "OUR DAILY BREAD\"B\"",
+    "address": "504 N 5th St",
+    "country": "USA",
+    "state": "LA",
+    "city": "Baton Rounge",
+    "postal": "70802"
+  },
+  {
+    "lat": "32.0229482",
+    "lng": "-102.1098162",
+    "id": 2365461,
+    "name": "NATURAL FOODS MARKET",
+    "address": "2311 W Wadley Ave",
+    "country": "USA",
+    "state": "TX",
+    "city": "Midland ",
+    "postal": "79705"
+  },
+  {
+    "lat": "41.9104964",
+    "lng": "-88.3142879",
+    "id": 2365462,
+    "name": "BLUE GOOSE MARKET ",
+    "address": "300 S 2nd St",
+    "country": "USA",
+    "state": "IL",
+    "city": "St Charles ",
+    "postal": "60174"
+  },
+  {
+    "lat": "42.3981954",
+    "lng": "-83.4365996",
+    "id": 2365463,
+    "name": "CANTORO'S MARKET",
+    "address": "15550 N Haggerty Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "Plymouth",
+    "postal": "48170"
+  },
+  {
+    "lat": "41.5068389",
+    "lng": "-81.5662483",
+    "id": 2365464,
+    "name": "ZAGARAS MARKET PLACE",
+    "address": "1940 Lee Rd",
+    "country": "USA",
+    "state": "OH",
+    "city": "Cleveland Heights ",
+    "postal": "44118"
+  },
+  {
+    "lat": "42.8809795",
+    "lng": "-85.6071943",
+    "id": 2365465,
+    "name": "HORROCK'S MARKET",
+    "address": "4455 Breton Rd SE",
+    "country": "USA",
+    "state": "MO",
+    "city": "Kentwood",
+    "postal": "49508"
+  },
+  {
+    "lat": "42.2848633",
+    "lng": "-83.7815412",
+    "id": 2365466,
+    "name": "PLUM MARKET",
+    "address": "375 N Maple Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "Ann Harbor",
+    "postal": "48103"
+  },
+  {
+    "lat": "42.5442574",
+    "lng": "-83.2630435",
+    "id": 2365467,
+    "name": "PLUM MARKET",
+    "address": "3675 W Maple Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "Bloomfield",
+    "postal": "48301"
+  },
+  {
+    "lat": "41.904931",
+    "lng": "-87.6341005",
+    "id": 2365468,
+    "name": "PLUM MARKET",
+    "address": "1233 N Wells S",
+    "country": "USA",
+    "state": "IL",
+    "city": "Chicago",
+    "postal": "60601"
+  },
+  {
+    "lat": "42.5420558",
+    "lng": "-83.3588991",
+    "id": 2365469,
+    "name": "PLUM MARKET",
+    "address": "6565 Orchard Lake Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "West Bloomfield",
+    "postal": "48322"
+  },
+  {
+    "lat": "40.737044",
+    "lng": "-73.0820543",
+    "id": 2365470,
+    "name": "CORNUCOPIA FOODS",
+    "address": "39 N Main St",
+    "country": "USA",
+    "state": "NY",
+    "city": "Sayville",
+    "postal": "11782"
+  },
+  {
+    "lat": "42.4573422",
+    "lng": "-71.3953564",
+    "id": 2365471,
+    "name": "DEBRA'S NATURAL GOURMET",
+    "address": "98 Commonwealth Ave",
+    "country": "USA",
+    "state": "MA",
+    "city": "Concord",
+    "postal": "1472"
+  },
+  {
+    "lat": "38.2900092",
+    "lng": "-76.6345249",
+    "id": 2365472,
+    "name": "GOOD EARTH NATURAL FOODS",
+    "address": "41675 Park Ave",
+    "country": "USA",
+    "state": "MD",
+    "city": "Leonardtown",
+    "postal": "20650"
+  },
+  {
+    "lat": "41.0373544",
+    "lng": "-74.7022018",
+    "id": 2365473,
+    "name": "GREEN LEAF MARKET ",
+    "address": "238 Newton Sparta Rd",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Andover",
+    "postal": "7860"
+  },
+  {
+    "lat": "40.9964825",
+    "lng": "-74.351668",
+    "id": 2365474,
+    "name": "GREEN LEAF MARKET ",
+    "address": "1388 NJ-23",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Butler",
+    "postal": "7405"
+  },
+  {
+    "lat": "40.7980276",
+    "lng": "-74.4766592",
+    "id": 2365475,
+    "name": "GREEN LEAF MARKET ",
+    "address": "66 Morris St,",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Morristown",
+    "postal": "7960"
+  },
+  {
+    "lat": "34.687787",
+    "lng": "-118.147177",
+    "id": 2365476,
+    "name": "THE WHOLE WHEATERY",
+    "address": "44264 10th St W",
+    "country": "USA",
+    "state": "CA",
+    "city": "Lancaster",
+    "postal": "93534"
+  },
+  {
+    "lat": "41.0991557",
+    "lng": "-74.0150992",
+    "id": 2365477,
+    "name": "A MATTER OF HEALTH",
+    "address": "138 Rockland Plaza",
+    "country": "USA",
+    "state": "NY",
+    "city": "Nanuet",
+    "postal": "10954"
+  },
+  {
+    "lat": "42.3579137",
+    "lng": "-83.480215",
+    "id": 2365478,
+    "name": "BETTER HEALTH",
+    "address": "44427 Ann Arbor Rd E",
+    "country": "USA",
+    "state": "MO",
+    "city": "Plymouth ",
+    "postal": "48170"
+  },
+  {
+    "lat": "42.254685",
+    "lng": "-83.689291",
+    "id": 2365479,
+    "name": "BETTER HEALTH",
+    "address": "3500 Washtenaw av",
+    "country": "USA",
+    "state": "MI",
+    "city": "Ann Harbor",
+    "postal": "48104"
+  },
+  {
+    "lat": "42.6098725",
+    "lng": "-83.3008001",
+    "id": 2365480,
+    "name": "BETTER HEALTH",
+    "address": "2053 S Telegraph Rd",
+    "country": "USA",
+    "state": "MI",
+    "city": "Bloomfield Hills",
+    "postal": "48302"
+  },
+  {
+    "lat": "42.418928",
+    "lng": "-82.9112099",
+    "id": 2365481,
+    "name": "BETTER HEALTH",
+    "address": "19221 Mack Ave",
+    "country": "USA",
+    "state": "MI",
+    "city": "Grosse Point",
+    "postal": "48236"
+  },
+  {
+    "lat": "42.4779204",
+    "lng": "-83.4694669",
+    "id": 2365482,
+    "name": "BETTER HEALTH",
+    "address": "42875 Grand River Ave",
+    "country": "USA",
+    "state": "MI",
+    "city": "Novi",
+    "postal": "48375"
+  },
+  {
+    "lat": "38.5200504",
+    "lng": "-89.9839935",
+    "id": 2365483,
+    "name": "BETTER HEALTH",
+    "address": "10864 Beleville rd",
+    "country": "USA",
+    "state": "MI",
+    "city": "Belleville",
+    "postal": "48111"
+  },
+  {
+    "lat": "42.7366481",
+    "lng": "-84.5090459",
+    "id": 2365484,
+    "name": "BETTER HEALTH",
+    "address": "305 N Clippert St",
+    "country": "USA",
+    "state": "MI",
+    "city": "Lansing",
+    "postal": "48912"
+  },
+  {
+    "lat": "42.6296448",
+    "lng": "-82.9866769",
+    "id": 2365485,
+    "name": "BETTER HEALTH",
+    "address": "14105 Hall Rd",
+    "country": "USA",
+    "state": "MI",
+    "city": "Shelby Township",
+    "postal": "48315"
+  },
+  {
+    "lat": "42.5180477",
+    "lng": "-83.221706",
+    "id": 2365486,
+    "name": "BETTER HEALTH",
+    "address": "17696 13 Mile Rd",
+    "country": "USA",
+    "state": "MI",
+    "city": "Beverly Hills",
+    "postal": "48025"
+  },
+  {
+    "lat": "42.1981661",
+    "lng": "-83.2216958",
+    "id": 2365487,
+    "name": "BETTER HEALTH",
+    "address": "17825 Eureka rd",
+    "country": "USA",
+    "state": "MI",
+    "city": "Southgate",
+    "postal": "48195"
+  },
+  {
+    "lat": "42.7404302",
+    "lng": "-84.6405142",
+    "id": 2365488,
+    "name": "BETTER HEALTH",
+    "address": "6235 W Saginaw Hwy",
+    "country": "USA",
+    "state": "MI",
+    "city": "Lansing",
+    "postal": "48917"
+  },
+  {
+    "lat": "42.540209",
+    "lng": "-83.028355",
+    "id": 2365489,
+    "name": "BETTER HEALTH",
+    "address": "33452 Van Dyke Ave",
+    "country": "USA",
+    "state": "MI",
+    "city": "Sterling Heights",
+    "postal": "48312"
+  },
+  {
+    "lat": "40.6923473",
+    "lng": "-73.9868754",
+    "id": 2365490,
+    "name": "DOWNTOWN NATURAL MARKET ",
+    "address": "51 Willoughby St #1",
+    "country": "USA",
+    "state": "NY",
+    "city": "Brooklin ",
+    "postal": "11201"
+  },
+  {
+    "lat": "33.1975716",
+    "lng": "-117.2458978",
+    "id": 2365491,
+    "name": "FRAZIER FARMS",
+    "address": "225 Vista Village Dr",
+    "country": "USA",
+    "state": "CA",
+    "city": "Vista",
+    "postal": "92083"
+  },
+  {
+    "lat": "33.1937726",
+    "lng": "-117.3587493",
+    "id": 2365492,
+    "name": "FRAZIER FARMS",
+    "address": "1820 Oceanside Blvd",
+    "country": "USA",
+    "state": "CA",
+    "city": "Oceanside",
+    "postal": "92054"
+  },
+  {
+    "lat": "25.9207513",
+    "lng": "-80.2936936",
+    "id": 2365493,
+    "name": "NUTRITION S'MART",
+    "address": "16250 NW 57th Ave",
+    "country": "USA",
+    "state": "FL",
+    "city": "Miami Lakes",
+    "postal": "33014"
+  },
+  {
+    "lat": "26.8099248",
+    "lng": "-80.1005432",
+    "id": 2365494,
+    "name": "NUTRITION S'MART",
+    "address": "4155 Northlake Blvd",
+    "country": "USA",
+    "state": "FL",
+    "city": "Palm Beach Gardens",
+    "postal": "33410"
+  },
+  {
+    "lat": "26.006298",
+    "lng": "-80.293623",
+    "id": 2365495,
+    "name": "NUTRITION S'MART",
+    "address": "10980 Pines Blvd,",
+    "country": "USA",
+    "state": "FL",
+    "city": "Pembrooke Pines",
+    "postal": "33026"
+  },
+  {
+    "lat": "27.2715863",
+    "lng": "-80.3595574",
+    "id": 2365496,
+    "name": "NUTRITION S'MART",
+    "address": "464 SW Port St Lucie Blvd",
+    "country": "USA",
+    "state": "FL",
+    "city": "Port ST Lucie",
+    "postal": "34953"
+  },
+  {
+    "lat": "37.0556782",
+    "lng": "-94.4962741",
+    "id": 2365497,
+    "name": "SUZANNE'S NATURAL FOOD",
+    "address": "3106 Connecticut Ave",
+    "country": "USA",
+    "state": "MO",
+    "city": "Joplin ",
+    "postal": "64804"
+  },
+  {
+    "lat": "40.7500817",
+    "lng": "-73.8822926",
+    "id": 2365498,
+    "name": "YOGI ORGANIC MARKET",
+    "address": "35-98, 35-0 84th St",
+    "country": "USA",
+    "state": "NY",
+    "city": "Jackson Heights",
+    "postal": "11372"
+  },
+  {
+    "lat": "19.7112547",
+    "lng": "-155.0759901",
+    "id": 2365499,
+    "name": "ISLAND NATURAL FOODS",
+    "address": "1221 Kilauea Avenue",
+    "country": "USA",
+    "state": "HI",
+    "city": "Hilo",
+    "postal": "96720"
+  },
+  {
+    "lat": "20.9154835",
+    "lng": "-156.3800238",
+    "id": 2365500,
+    "name": "MANA FOODS",
+    "address": "49 Baldwin Ave",
+    "country": "USA",
+    "state": "HI",
+    "city": "Paia",
+    "postal": "96779"
+  },
+  {
+    "lat": "39.9400939",
+    "lng": "-75.1494326",
+    "id": 2365501,
+    "name": "ESSENE MARKET E CAFE ",
+    "address": "719 S 4th St",
+    "country": "USA",
+    "state": "Pennsylvania ",
+    "city": "Philadelphia",
+    "postal": "19147"
+  },
+  {
+    "lat": "41.5874992",
+    "lng": "-93.6440004",
+    "id": 2365502,
+    "name": "GATEWAY MARKET",
+    "address": "2002 Woodland Ave",
+    "country": "USA",
+    "state": "IA",
+    "city": "Des Moines",
+    "postal": "50312"
+  },
+  {
+    "lat": "30.1295058",
+    "lng": "-95.5065423",
+    "id": 2365503,
+    "name": "HARVEST NATURAL MARKET",
+    "address": "25115 Gosling Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Spring",
+    "postal": "77389"
+  },
+  {
+    "lat": "39.5056046",
+    "lng": "-75.041173",
+    "id": 2365504,
+    "name": "HEALTH NOW ",
+    "address": "1301 N Delsea Dr,",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Vineland",
+    "postal": "8360"
+  },
+  {
+    "lat": "22.2040239",
+    "lng": "-159.4069429",
+    "id": 2365505,
+    "name": "HEALTHY FOODS LLC",
+    "address": "4280 Hookui Rd",
+    "country": "USA",
+    "state": "HI",
+    "city": "Kilauea",
+    "postal": "96754"
+  },
+  {
+    "lat": "41.0821501",
+    "lng": "-74.060451",
+    "id": 2365506,
+    "name": "HUNGRY HOLLOW CO-OP",
+    "address": "841 Chestnut Ridge Rd",
+    "country": "USA",
+    "state": "NY",
+    "city": "Chestnut Ridge",
+    "postal": "10977"
+  },
+  {
+    "lat": "40.1222866",
+    "lng": "-74.0494966",
+    "id": 2365507,
+    "name": "MONMOUTH HEALTH FOODS",
+    "address": "181 Main St",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Manasquan",
+    "postal": "8736"
+  },
+  {
+    "lat": "44.5069595",
+    "lng": "-73.0823971",
+    "id": 2365508,
+    "name": "SWEET CLOVER MARKET",
+    "address": "21 Essex Way #418",
+    "country": "USA",
+    "state": "VT",
+    "city": "Essex",
+    "postal": "5452"
+  },
+  {
+    "lat": "31.8071685",
+    "lng": "-106.5126493",
+    "id": 2365509,
+    "name": "THE MARKET AT MONTECILLO ",
+    "address": "140 W Castellano Dr Suite B-4",
+    "country": "USA",
+    "state": "TX",
+    "city": "El Paso",
+    "postal": "79912"
+  },
+  {
+    "lat": "31.3277278",
+    "lng": "-89.3735164",
+    "id": 2365510,
+    "name": "VITAMIN PLUS ",
+    "address": "427 Weathersby Rd",
+    "country": "USA",
+    "state": "MS",
+    "city": "Hattiesburg",
+    "postal": "39402"
+  },
+  {
+    "lat": "33.8114266",
+    "lng": "-118.1092732",
+    "id": 2365511,
+    "name": "VITAMIN CITY",
+    "address": "6247 E Spring St",
+    "country": "USA",
+    "state": "CA",
+    "city": "Long Beach",
+    "postal": "90808"
+  },
+  {
+    "lat": "34.1047176",
+    "lng": "-117.8195072",
+    "id": 2365512,
+    "name": "VITAMIN CITY",
+    "address": "642 W Arrow Hwy",
+    "country": "USA",
+    "state": "CA",
+    "city": "San Dimas",
+    "postal": "91773"
+  },
+  {
+    "lat": "39.0545884",
+    "lng": "-94.5947709",
+    "id": 2365513,
+    "name": "MARSH'S SUNFRESH",
+    "address": "4001 Mill St",
+    "country": "USA",
+    "state": "MO",
+    "city": "Kansas City",
+    "postal": "6411"
+  },
+  {
+    "lat": "37.0708328",
+    "lng": "-88.6360075",
+    "id": 2365514,
+    "name": "MIDTOWN MARKET",
+    "address": "3000 Broadway St",
+    "country": "USA",
+    "state": "KY",
+    "city": "Paducah",
+    "postal": "42001"
+  },
+  {
+    "lat": "42.5317167",
+    "lng": "-83.2245402",
+    "id": 2365515,
+    "name": "MARKET SQUARE ",
+    "address": "1964 Southfield Rd",
+    "country": "USA",
+    "state": "MO",
+    "city": "Birmingham",
+    "postal": "48009"
+  },
+  {
+    "lat": "40.6647037",
+    "lng": "-73.9931838",
+    "id": 2365516,
+    "name": "EARTH'S BASKET ",
+    "address": "599 4th Ave,",
+    "country": "USA",
+    "state": "NY",
+    "city": "Brooklin ",
+    "postal": "11215"
+  },
+  {
+    "lat": "40.7049793",
+    "lng": "-73.9329541",
+    "id": 2365517,
+    "name": "FOOD STORY NATURAL",
+    "address": "40 Bogart St",
+    "country": "USA",
+    "state": "NY",
+    "city": "Brooklin ",
+    "postal": "11206"
+  },
+  {
+    "lat": "39.7428716",
+    "lng": "-75.1226654",
+    "id": 2365518,
+    "name": "GOURMET GROCERY OUTLET ",
+    "address": "410 Andbro Drive Unit 3",
+    "country": "USA",
+    "state": "NJ",
+    "city": "Pitman",
+    "postal": "8071"
+  },
+  {
+    "lat": "40.7017287",
+    "lng": "-73.9869552",
+    "id": 2365519,
+    "name": "WHOLESOME FARMS MARKET",
+    "address": "108 Jay st",
+    "country": "USA",
+    "state": "NY",
+    "city": "Brooklin ",
+    "postal": "11201"
+  },
+  {
+    "lat": "31.3231271",
+    "lng": "-89.3441121",
+    "id": 2365520,
+    "name": "CORNER MARKET ",
+    "address": "3706 Hardy St",
+    "country": "USA",
+    "state": "MS",
+    "city": "Hattiesburg",
+    "postal": "39402"
+  },
+  {
+    "lat": "31.3455405",
+    "lng": "-89.2640192",
+    "id": 2365521,
+    "name": "CORNER MARKET ",
+    "address": "116 S Main St",
+    "country": "USA",
+    "state": "MS",
+    "city": "Petal",
+    "postal": "39465"
+  },
+  {
+    "lat": "41.0734666",
+    "lng": "-72.429078",
+    "id": 2365522,
+    "name": "FIT FOODS AND HOME",
+    "address": "46025 County Rd 48",
+    "country": "USA",
+    "state": "NY",
+    "city": "Southold",
+    "postal": "11971"
+  },
+  {
+    "lat": "32.0163653",
+    "lng": "-102.1433146",
+    "id": 2365523,
+    "name": "ALBERTSON'S",
+    "address": "3317 Midland Dr,",
+    "country": "USA",
+    "state": "TX",
+    "city": "Midland ",
+    "postal": "79707"
+  },
+  {
+    "lat": "31.8577852",
+    "lng": "-102.3558792",
+    "id": 2365524,
+    "name": "ALBERTSON'S",
+    "address": "1350 E 8th St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Odessa",
+    "postal": "79761"
+  },
+  {
+    "lat": "31.4259101",
+    "lng": "-100.4866443",
+    "id": 2365525,
+    "name": "ALBERTSON'S",
+    "address": "3121 Sunset Ct",
+    "country": "USA",
+    "state": "TX",
+    "city": "San Angelo",
+    "postal": "76904"
+  },
+  {
+    "lat": "32.8992201",
+    "lng": "-105.9458449",
+    "id": 2365526,
+    "name": "ALBERTSON'S",
+    "address": "1300 E 10th St",
+    "country": "USA",
+    "state": "NM",
+    "city": "Alamogordo",
+    "postal": "88310"
+  },
+  {
+    "lat": "33.3473994",
+    "lng": "-105.6762628",
+    "id": 2365527,
+    "name": "ALBERTSON'S",
+    "address": "721 Mechem Dr",
+    "country": "USA",
+    "state": "NM",
+    "city": "Ruidoso",
+    "postal": "88345"
+  },
+  {
+    "lat": "34.416559",
+    "lng": "-103.1946731",
+    "id": 2365528,
+    "name": "ALBERTSON'S",
+    "address": "1905 N Prince St",
+    "country": "USA",
+    "state": "NM",
+    "city": "Clovis",
+    "postal": "88101"
+  },
+  {
+    "lat": "32.429472",
+    "lng": "-104.2282397",
+    "id": 2365529,
+    "name": "ALBERTSON'S",
+    "address": "808 N Canal St",
+    "country": "USA",
+    "state": "NM",
+    "city": "Carlsbad",
+    "postal": "88220"
+  },
+  {
+    "lat": "35.2531202",
+    "lng": "-106.6514203",
+    "id": 2365530,
+    "name": "ALBERTSON'S",
+    "address": "4300 Ridgecrest Dr SE",
+    "country": "USA",
+    "state": "NM",
+    "city": "Rio Rancho",
+    "postal": "87124"
+  },
+  {
+    "lat": "36.3924838",
+    "lng": "-105.5823821",
+    "id": 2365531,
+    "name": "ALBERTSON'S",
+    "address": "710 A Paseo Del Pueblo Sur,",
+    "country": "USA",
+    "state": "NM",
+    "city": "Taos",
+    "postal": "87571"
+  },
+  {
+    "lat": "35.6937823",
+    "lng": "-105.9514443",
+    "id": 2365532,
+    "name": "ALBERTSON'S",
+    "address": "600 N Guadalupe St",
+    "country": "USA",
+    "state": "NM",
+    "city": "Santa Fe",
+    "postal": "87501"
+  },
+  {
+    "lat": "35.2003041",
+    "lng": "-106.6516468",
+    "id": 2365533,
+    "name": "ALBERTSON'S",
+    "address": "10131 Coors Blvd NW",
+    "country": "USA",
+    "state": "NM",
+    "city": "Albuquerque",
+    "postal": "87114"
+  },
+  {
+    "lat": "35.1539136",
+    "lng": "-106.4989366",
+    "id": 2365534,
+    "name": "ALBERTSON'S",
+    "address": "12201 Academy Rd NE",
+    "country": "USA",
+    "state": "NM",
+    "city": "Albuquerque",
+    "postal": "87111"
+  },
+  {
+    "lat": "35.6457324",
+    "lng": "-105.95525",
+    "id": 2365535,
+    "name": "ALBERTSON'S",
+    "address": "3001 S St Francis D",
+    "country": "USA",
+    "state": "NM",
+    "city": "Santa Fe",
+    "postal": "87501"
+  },
+  {
+    "lat": "32.0355781",
+    "lng": "-102.1283309",
+    "id": 2365536,
+    "name": "MARKET STREET ",
+    "address": "4706 N Midkiff rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Midland ",
+    "postal": "79705"
+  },
+  {
+    "lat": "32.3968714",
+    "lng": "-99.7631635",
+    "id": 2365537,
+    "name": "MARKET STREET ",
+    "address": "4450 Buffalo Gap Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Abilene",
+    "postal": "79606"
+  },
+  {
+    "lat": "33.1146838",
+    "lng": "-96.8376442",
+    "id": 2365538,
+    "name": "MARKET STREET ",
+    "address": "4268 Legacy Dr,",
+    "country": "USA",
+    "state": "TX",
+    "city": "Frisco",
+    "postal": "75034"
+  },
+  {
+    "lat": "32.5748874",
+    "lng": "-97.0874609",
+    "id": 2365539,
+    "name": "MARKET STREET ",
+    "address": "3145 E Broad St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Mansfield",
+    "postal": "76763"
+  },
+  {
+    "lat": "33.5920158",
+    "lng": "-101.9565839",
+    "id": 2365540,
+    "name": "MARKET STREET ",
+    "address": "6321 4th St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Lubbock",
+    "postal": "79416"
+  },
+  {
+    "lat": "33.5475896",
+    "lng": "-101.8893974",
+    "id": 2365541,
+    "name": "UNITED SUPERMARKETS",
+    "address": "3405 50th St.",
+    "country": "USA",
+    "state": "TX",
+    "city": "Lubbock",
+    "postal": "79413"
+  },
+  {
+    "lat": "33.8648127",
+    "lng": "-98.4950513",
+    "id": 2365542,
+    "name": "UNITED SUPERMARKETS",
+    "address": "4516 Old Jacksboro Hwy",
+    "country": "USA",
+    "state": "TX",
+    "city": "Whichita Falls",
+    "postal": "76302"
+  },
+  {
+    "lat": "33.0933086",
+    "lng": "-98.588509",
+    "id": 2365543,
+    "name": "UNITED SUPERMARKETS",
+    "address": "1229 Hwy 16 S.",
+    "country": "USA",
+    "state": "TX",
+    "city": "Graham",
+    "postal": "76450"
+  },
+  {
+    "lat": "35.2145616",
+    "lng": "-101.9002225",
+    "id": 2365544,
+    "name": "UNITED SUPERMARKETS",
+    "address": "5601 West Amarillo Boulevard",
+    "country": "USA",
+    "state": "TX",
+    "city": "Amarillo",
+    "postal": "79106"
+  },
+  {
+    "lat": "35.1864001",
+    "lng": "-101.8683221",
+    "id": 2365545,
+    "name": "UNITED SUPERMARKETS",
+    "address": "2530 South Georgia,",
+    "country": "USA",
+    "state": "TX",
+    "city": "Amarillo",
+    "postal": "79109"
+  },
+  {
+    "lat": "35.1605489",
+    "lng": "-101.9006131",
+    "id": 2365546,
+    "name": "UNITED SUPERMARKETS",
+    "address": "5807 SOUTHWEST 45TH",
+    "country": "USA",
+    "state": "TX",
+    "city": "Amarillo",
+    "postal": "79109"
+  },
+  {
+    "lat": "35.1743633",
+    "lng": "-101.9392441",
+    "id": 2365547,
+    "name": "UNITED SUPERMARKETS",
+    "address": "S, 3572 Soncy Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Amarillo",
+    "postal": "79119"
+  },
+  {
+    "lat": "33.5030031",
+    "lng": "-101.9025396",
+    "id": 2365548,
+    "name": "UNITED SUPERMARKETS",
+    "address": "4205 98th St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Lubbock",
+    "postal": "79423"
+  },
+  {
+    "lat": "33.5475896",
+    "lng": "-101.8893974",
+    "id": 2365549,
+    "name": "UNITED EXPRESS",
+    "address": "3405 50th St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Lubbock",
+    "postal": "79413"
+  },
+  {
+    "lat": "33.1752573",
+    "lng": "-96.6956184",
+    "id": 2365550,
+    "name": "UNITED SUPERMARKETS",
+    "address": "6100 Eldorado Pkwy",
+    "country": "USA",
+    "state": "TX",
+    "city": "Mckinney",
+    "postal": "75070"
+  },
+  {
+    "lat": "33.1770426",
+    "lng": "-96.8429726",
+    "id": 2365551,
+    "name": "UNITED SUPERMARKETS",
+    "address": "11999 Dallas Pkwy",
+    "country": "USA",
+    "state": "TX",
+    "city": "Frisco",
+    "postal": "75033"
+  },
+  {
+    "lat": "33.0897784",
+    "lng": "-96.6846968",
+    "id": 2365552,
+    "name": "UNITED SUPERMARKETS",
+    "address": "985 W Bethany Dr,",
+    "country": "USA",
+    "state": "TX",
+    "city": "Allen",
+    "postal": "75013"
+  },
+  {
+    "lat": "32.9883034",
+    "lng": "-96.9921386",
+    "id": 2365553,
+    "name": "UNITED SUPERMARKETS",
+    "address": "700 N Denton Tap Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Coppell",
+    "postal": "75019"
+  },
+  {
+    "lat": "33.0371685",
+    "lng": "-97.0680233",
+    "id": 2365554,
+    "name": "UNITED SUPERMARKETS",
+    "address": "3800 Long Prairie Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Flower Mound",
+    "postal": "75028"
+  },
+  {
+    "lat": "33.0258651",
+    "lng": "-96.7993875",
+    "id": 2365555,
+    "name": "UNITED SUPERMARKETS",
+    "address": "1929 Preston Rd",
+    "country": "USA",
+    "state": "TX",
+    "city": "Plano",
+    "postal": "75093"
+  },
+  {
+    "lat": "31.7292532",
+    "lng": "-98.9784249",
+    "id": 2365556,
+    "name": "UNITED SUPERMARKETS",
+    "address": "00 E Commerce St",
+    "country": "USA",
+    "state": "TX",
+    "city": "Brownwood",
+    "postal": "76801"
+  }
+]

@@ -1,0 +1,88 @@
+{%- capture basel_style -%}
+/*-----------------------------------------------------------------------------/
+/ Custom Theme CSS
+/-----------------------------------------------------------------------------*/
+/*---------------- Global Custom CSS -------------------*/
+{{settings.global_custom_css }}
+
+/*---------------- Custom CSS for desktop -------------------*/
+@media (min-width: 992px) {
+{{settings.desktop_custom_css }}
+}
+
+/*---------------- Custom CSS for tablet -------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+{{settings.tablet_custom_css }}
+}
+
+/*---------------- Custom CSS for mobile landscape -------------------*/
+@media (min-width: 481px) and (max-width: 767px) {
+{{settings.landscape_custom_css }}
+}
+
+/*---------------- Custom CSS for mobile -------------------*/
+@media (max-width: 480px){
+{{settings.mobile_custom_css }}
+}
+{%- endcapture -%}
+{{ basel_style | strip_newlines | remove: "  "}}
+
+/* blog custom */
+
+.gl_page_title.page-title-default {
+    background-color: #1daaa3;
+}
+.blog-design-default .entry-thumbnail {
+    margin-bottom: 15px !important;
+}
+.blog-design-default .post-mask {
+    margin-top: 45px;
+}
+.blog-post-loop.has-post-thumbnail .entry-title {
+    font-size: 20px;
+}
+
+.blog-post-loop.has-post-thumbnail .entry-meta {
+    display: none;
+}
+
+a.btn.btn-style-link.btn-read-more.more-link {
+height: auto;
+    text-align: center;
+    line-height: 18px;
+    font-size: 14px;
+    padding: 11px 21px;
+    margin-left: 0;
+    margin-right: 12px;
+    text-transform: uppercase;
+    letter-spacing: .3px;
+    border-radius: 0;
+    background-color: #1aada3;
+    color: #fff;
+    border-color: #1aada3;
+    transition: all .2s ease;
+    -webkit-transition: all .2s ease;
+}
+
+a.btn.btn-style-link.btn-read-more.more-link:hover {
+    background-color: #25c3b9;
+    color: #fff;
+    border-color: #25c3b9;
+}
+
+/* blog feed post photo */
+
+figure.entry-thumbnail.col- {
+    height: 300px;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.blog-post-loop .post-img-wrapp>a img {
+    object-fit: cover;
+    height: 100%;
+}
+
+.blog-post-loop .post-img-wrapp, .blog-post-loop .post-img-wrapp .db {
+    height: inherit;
+}
